@@ -1,0 +1,48 @@
+[
+
+	{
+
+		"title_game": "قصة عشق",
+		"desc_game": "موقع قصة عشق للمسلسلات والأفلام التركية المترجمة والمدبلجة",
+		"logo_game": "https://i.ibb.co/p1BVhtn/game-icon.png",
+		"image_background_game": "https://i.ibb.co/kxCJLwx/img1.png",
+		"url_game": "https://3isk.biz/",
+		"type_ad": "off"
+
+	},
+
+	{
+
+		"title_game": "قصة عشق",
+		"desc_game": "جميع المسلسلات التركية",
+		"logo_game": "https://i.ibb.co/p1BVhtn/game-icon.png",
+		"image_background_game": "https://i.ibb.co/DpcmtnP/img2.png",
+		"url_game": "https://3isk.biz/watch/tvshows/",
+		"type_ad": "off"
+
+	},
+
+
+	{
+
+		"title_game": "قصة عشق",
+		"desc_game": "جميع الأفلام التركية",
+		"logo_game": "https://i.ibb.co/p1BVhtn/game-icon.png",
+		"image_background_game": "https://i.ibb.co/RvsvzMm/img3.png",
+		"url_game": "https://3isk.biz/watch/movies/",
+		"type_ad": "off"
+
+	},
+
+	{
+
+		"title_game": "قصة عشق",
+		"desc_game": "جميع المسلسلات التركية المدبلجة",
+		"logo_game": "https://i.ibb.co/p1BVhtn/game-icon.png",
+		"image_background_game": "https://i.ibb.co/mRvfgWc/img4.png",
+		"url_game": "https://3isk.biz/genre/series-mudablij-117/",
+		"type_ad": "on"
+
+	}
+
+]
